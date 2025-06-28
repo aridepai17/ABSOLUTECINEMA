@@ -22,14 +22,7 @@ An intelligent movie recommendation system that analyzes your real-time emotions
 
 ## 🧠 How It Works
 
-```mermaid
-graph LR
-    A[📸 Webcam Capture] --> B[🎭 Emotion Detection]
-    B --> C[🎬 Genre Mapping]
-    C --> D[📡 TMDB API]
-    D --> E[🤖 AI Enhancement]
-    E --> F[✨ Personalized Recommendations]
-```
+![Workflow Diagram] (pic/flow.png)
 
 1. **Capture**: Real-time facial expression capture via webcam
 2. **Analyze**: DeepFace analyzes emotions (Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral)
