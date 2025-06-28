@@ -378,7 +378,7 @@ def create_gradio_interface():
     """Create and configure the Gradio interface"""
     with gr.Blocks(title="🎬 Real-Time Emotion-Based Movie Recommender", theme=custom_theme) as app:
         gr.Markdown("""
-        # 🎬 Real-Time Emotion-Based Movie Recommendation System
+        # 🎬 ABSOLUTE CINEMA
         ### *Blume AI - Team 5*
         
         This system uses **DeepFace** for facial emotion recognition, **OpenCV** for real-time webcam processing, 
