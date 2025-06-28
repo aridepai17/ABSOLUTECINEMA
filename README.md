@@ -22,7 +22,7 @@ An intelligent movie recommendation system that analyzes your real-time emotions
 
 ## 🧠 How It Works
 
-![Workflow Diagram] (pic/flow.png)
+![Workflow Diagram](pic/flow.png)
 
 1. **Capture**: Real-time facial expression capture via webcam
 2. **Analyze**: DeepFace analyzes emotions (Happy, Sad, Angry, Fear, Surprise, Disgust, Neutral)
